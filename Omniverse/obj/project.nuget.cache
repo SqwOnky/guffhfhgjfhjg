@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2JOnRI3cDpQVx96cTnqJ3fRkl6FA+PD2BInmfmF20Z/jNFT0V7Xn87iSizkM8/iBml3AeFpbGsJSb/YLKI+Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SqwOnky\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Omniverse\\Omniverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SqwOnky\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
